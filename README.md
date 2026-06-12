@@ -129,4 +129,4 @@ Through this project, I learned:
 
 Arthi Saran
 
-First Machine Learning Classification Project 🚀
+Machine Learning Classification Project 🚀
