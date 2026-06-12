@@ -81,11 +81,11 @@ SMS Spam Collection Dataset
 
 ## 📁 Project Structure
 
-Email-Spam-Classifier/
+SMS-Spam-Classifier/
 
 ├── spam_classification.ipynb
 
-├── spam_classifier.py
+├── spam_classification.py
 
 ├── spam_classifier.pkl
 
